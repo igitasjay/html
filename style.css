@@ -1,0 +1,21 @@
+h1 {
+  color: orange;
+  background-color: slategray;
+  font-size: 20px;
+  padding: 20px;
+  font-family: Arial;
+  text-align: center;
+}
+
+p {
+  color: slategrey;
+  line-height: 30px;
+  letter-spacing: 3px;
+  column-count: 2;
+  column-gap: 60px;
+}
+
+ul {
+  border: 2px dotted grey;
+  padding: 20px;
+}
